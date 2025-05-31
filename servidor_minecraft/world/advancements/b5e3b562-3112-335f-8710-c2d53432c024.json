@@ -243,7 +243,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-31 23:44:04 +0000",
-      "apple": "2025-05-30 01:21:40 +0000"
+      "apple": "2025-05-30 01:21:40 +0000",
+      "cooked_chicken": "2025-05-31 23:55:03 +0000"
     },
     "done": false
   },
@@ -400,6 +401,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-05-30 01:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-31 23:53:55 +0000"
     },
     "done": true
   },
