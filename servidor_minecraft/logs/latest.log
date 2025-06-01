@@ -100,3 +100,43 @@
 [00:24:37] [User Authenticator #3/INFO]: UUID of player DAIRXD01 is 1cedd9ee-25af-3a40-b67b-307e18299483
 [00:24:39] [Server thread/INFO]: DAIRXD01 joined the game
 [00:24:39] [Server thread/INFO]: DAIRXD01[/127.245.203.125:54697] logged in with entity id 2690 at ([world]44.5, 73.0, 34.5)
+[00:26:49] [Server thread/INFO]: DAIRXD01 lost connection: Timed out
+[00:26:49] [Server thread/INFO]: DAIRXD01 left the game
+[00:30:45] [User Authenticator #4/INFO]: UUID of player _papitasmc is c73f7413-c8f1-379b-8bc4-12d9de26caf9
+[00:30:47] [Server thread/INFO]: _papitasmc joined the game
+[00:30:47] [Server thread/INFO]: _papitasmc[/127.93.25.153:42611] logged in with entity id 4591 at ([world]52.5, 73.0, 34.5)
+[00:30:53] [Async Chat Thread - #1/INFO]: [Not Secure] <_papitasmc> OLA XD
+[00:31:06] [Server thread/INFO]: _papitasmc issued server command: /skin random
+[00:31:11] [Async Chat Thread - #0/INFO]: [Not Secure] <jhonsts35> ola?
+[00:31:36] [Server thread/INFO]: _papitasmc issued server command: /skin random
+[00:31:38] [Server thread/INFO]: _papitasmc issued server command: /skin random
+[00:32:20] [Server thread/WARN]: _papitasmc moved wrongly!
+[00:32:20] [Server thread/WARN]: _papitasmc moved wrongly!
+[00:32:20] [Server thread/WARN]: _papitasmc moved wrongly!
+[00:32:34] [Async Chat Thread - #2/INFO]: [Not Secure] <_papitasmc> AS ME TP TOY VIENDO LIVE
+[00:32:35] [Server thread/WARN]: _papitasmc moved wrongly!
+[00:32:37] [Server thread/WARN]: _papitasmc moved wrongly!
+[00:32:48] [Server thread/WARN]: _papitasmc moved wrongly!
+[00:32:48] [Server thread/WARN]: _papitasmc moved wrongly!
+[00:32:54] [Async Chat Thread - #2/INFO]: [Not Secure] <_papitasmc> O PASA CORDS
+[00:33:11] [Server thread/INFO]: _papitasmc issued server command: /skin random
+[00:33:13] [Async Chat Thread - #2/INFO]: [Not Secure] <jhonsts35> 246 98 263
+[00:33:16] [Async Chat Thread - #3/INFO]: [Not Secure] <_papitasmc> ok
+[00:33:33] [Async Chat Thread - #3/INFO]: [Not Secure] <_papitasmc> ok
+[00:33:35] [Server thread/INFO]: _papitasmc issued server command: /skin random
+[00:34:11] [Server thread/WARN]: _papitasmc moved wrongly!
+[00:34:12] [Server thread/WARN]: _papitasmc moved wrongly!
+[00:34:12] [Server thread/WARN]: _papitasmc moved wrongly!
+[00:34:17] [Server thread/WARN]: _papitasmc moved wrongly!
+[00:34:33] [Server thread/WARN]: _papitasmc moved wrongly!
+[00:34:33] [Server thread/WARN]: _papitasmc moved wrongly!
+[00:34:40] [Server thread/WARN]: _papitasmc moved wrongly!
+[00:34:41] [Server thread/WARN]: _papitasmc moved wrongly!
+[00:34:41] [Server thread/WARN]: _papitasmc moved wrongly!
+[00:34:59] [Server thread/INFO]: _papitasmc issued server command: /skin random
+[00:35:22] [Server thread/INFO]: _papitasmc lost connection: Disconnected
+[00:35:22] [Server thread/INFO]: _papitasmc left the game
+[00:35:29] [User Authenticator #5/INFO]: UUID of player _papitasmc is c73f7413-c8f1-379b-8bc4-12d9de26caf9
+[00:35:30] [Server thread/INFO]: _papitasmc joined the game
+[00:35:30] [Server thread/INFO]: _papitasmc[/127.93.25.153:45995] logged in with entity id 6417 at ([world]225.72566877593323, 95.0, 261.3949469407039)
+[00:35:32] [Server thread/INFO]: _papitasmc issued server command: /skin random

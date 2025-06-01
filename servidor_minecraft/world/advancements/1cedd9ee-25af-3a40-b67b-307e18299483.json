@@ -7,9 +7,28 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2025-06-01 00:18:56 +0000"
+      "minecraft:forest": "2025-06-01 00:18:56 +0000",
+      "minecraft:stony_shore": "2025-06-01 00:25:18 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-06-01 00:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-06-01 00:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-01 00:24:49 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3953
 }
